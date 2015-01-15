@@ -86,7 +86,7 @@ GitHub plugin for Gerrit.
 Example:
   git clone https://github.com/lucamilanesio/github-api.git
   cd github-api
-  mvn install
+  mvn install -DskipTests
 
 ### singleusergroup plugin
 
